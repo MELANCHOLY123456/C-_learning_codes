@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = D$:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug/
+cmake_ninja_workdir = D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target C___learning_codes
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = D$:/我的学习资源/13-C++_learning/C++_learning_codes/
 
 build cmake_object_order_depends_target_C___learning_codes: phony || .
 
-build CMakeFiles/C___learning_codes.dir/main.cpp.obj: CXX_COMPILER__C___learning_codes_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/main.cpp || cmake_object_order_depends_target_C___learning_codes
+build CMakeFiles/C___learning_codes.dir/main.cpp.obj: CXX_COMPILER__C___learning_codes_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/main.cpp || cmake_object_order_depends_target_C___learning_codes
   DEP_FILE = CMakeFiles\C___learning_codes.dir\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\C___learning_codes.dir
@@ -82,7 +82,7 @@ build C___learning_codes.exe: CXX_EXECUTABLE_LINKER__C___learning_codes_Debug CM
 
 build cmake_object_order_depends_target_add_using: phony || .
 
-build CMakeFiles/add_using.dir/Chapter_03/add_using.cpp.obj: CXX_COMPILER__add_using_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_03/add_using.cpp || cmake_object_order_depends_target_add_using
+build CMakeFiles/add_using.dir/Chapter_03/add_using.cpp.obj: CXX_COMPILER__add_using_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_03/add_using.cpp || cmake_object_order_depends_target_add_using
   DEP_FILE = CMakeFiles\add_using.dir\Chapter_03\add_using.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\add_using.dir
@@ -115,7 +115,7 @@ build add_using.exe: CXX_EXECUTABLE_LINKER__add_using_Debug CMakeFiles/add_using
 
 build cmake_object_order_depends_target_arrayScores: phony || .
 
-build CMakeFiles/arrayScores.dir/Chapter_03/arrayScores.cpp.obj: CXX_COMPILER__arrayScores_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_03/arrayScores.cpp || cmake_object_order_depends_target_arrayScores
+build CMakeFiles/arrayScores.dir/Chapter_03/arrayScores.cpp.obj: CXX_COMPILER__arrayScores_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_03/arrayScores.cpp || cmake_object_order_depends_target_arrayScores
   DEP_FILE = CMakeFiles\arrayScores.dir\Chapter_03\arrayScores.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\arrayScores.dir
@@ -148,7 +148,7 @@ build arrayScores.exe: CXX_EXECUTABLE_LINKER__arrayScores_Debug CMakeFiles/array
 
 build cmake_object_order_depends_target_c_type: phony || .
 
-build CMakeFiles/c_type.dir/Chapter_03/c_type.cpp.obj: CXX_COMPILER__c_type_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_03/c_type.cpp || cmake_object_order_depends_target_c_type
+build CMakeFiles/c_type.dir/Chapter_03/c_type.cpp.obj: CXX_COMPILER__c_type_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_03/c_type.cpp || cmake_object_order_depends_target_c_type
   DEP_FILE = CMakeFiles\c_type.dir\Chapter_03\c_type.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\c_type.dir
@@ -181,7 +181,7 @@ build c_type.exe: CXX_EXECUTABLE_LINKER__c_type_Debug CMakeFiles/c_type.dir/Chap
 
 build cmake_object_order_depends_target_char_repl: phony || .
 
-build CMakeFiles/char_repl.dir/Chapter_03/char_repl.cpp.obj: CXX_COMPILER__char_repl_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_03/char_repl.cpp || cmake_object_order_depends_target_char_repl
+build CMakeFiles/char_repl.dir/Chapter_03/char_repl.cpp.obj: CXX_COMPILER__char_repl_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_03/char_repl.cpp || cmake_object_order_depends_target_char_repl
   DEP_FILE = CMakeFiles\char_repl.dir\Chapter_03\char_repl.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\char_repl.dir
@@ -214,7 +214,7 @@ build char_repl.exe: CXX_EXECUTABLE_LINKER__char_repl_Debug CMakeFiles/char_repl
 
 build cmake_object_order_depends_target_c_string: phony || .
 
-build CMakeFiles/c_string.dir/Chapter_03/c_string_hdr.cpp.obj: CXX_COMPILER__c_string_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_03/c_string_hdr.cpp || cmake_object_order_depends_target_c_string
+build CMakeFiles/c_string.dir/Chapter_03/c_string_hdr.cpp.obj: CXX_COMPILER__c_string_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_03/c_string_hdr.cpp || cmake_object_order_depends_target_c_string
   DEP_FILE = CMakeFiles\c_string.dir\Chapter_03\c_string_hdr.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\c_string.dir
@@ -247,7 +247,7 @@ build c_string.exe: CXX_EXECUTABLE_LINKER__c_string_Debug CMakeFiles/c_string.di
 
 build cmake_object_order_depends_target_get_line: phony || .
 
-build CMakeFiles/get_line.dir/Chapter_03/get_line.cpp.obj: CXX_COMPILER__get_line_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_03/get_line.cpp || cmake_object_order_depends_target_get_line
+build CMakeFiles/get_line.dir/Chapter_03/get_line.cpp.obj: CXX_COMPILER__get_line_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_03/get_line.cpp || cmake_object_order_depends_target_get_line
   DEP_FILE = CMakeFiles\get_line.dir\Chapter_03\get_line.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\get_line.dir
@@ -280,7 +280,7 @@ build get_line.exe: CXX_EXECUTABLE_LINKER__get_line_Debug CMakeFiles/get_line.di
 
 build cmake_object_order_depends_target_square: phony || .
 
-build CMakeFiles/square.dir/Chapter_03/square.cpp.obj: CXX_COMPILER__square_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_03/square.cpp || cmake_object_order_depends_target_square
+build CMakeFiles/square.dir/Chapter_03/square.cpp.obj: CXX_COMPILER__square_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_03/square.cpp || cmake_object_order_depends_target_square
   DEP_FILE = CMakeFiles\square.dir\Chapter_03\square.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\square.dir
@@ -313,7 +313,7 @@ build square.exe: CXX_EXECUTABLE_LINKER__square_Debug CMakeFiles/square.dir/Chap
 
 build cmake_object_order_depends_target_3.4: phony || .
 
-build CMakeFiles/3.4.dir/Chapter_03_exercises/3.4.cpp.obj: CXX_COMPILER__3.2e4_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_03_exercises/3.4.cpp || cmake_object_order_depends_target_3.4
+build CMakeFiles/3.4.dir/Chapter_03_exercises/3.4.cpp.obj: CXX_COMPILER__3.2e4_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_03_exercises/3.4.cpp || cmake_object_order_depends_target_3.4
   DEP_FILE = CMakeFiles\3.4.dir\Chapter_03_exercises\3.4.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\3.4.dir
@@ -346,7 +346,7 @@ build 3.4.exe: CXX_EXECUTABLE_LINKER__3.2e4_Debug CMakeFiles/3.4.dir/Chapter_03_
 
 build cmake_object_order_depends_target_3.5: phony || .
 
-build CMakeFiles/3.5.dir/Chapter_03_exercises/3.5.cpp.obj: CXX_COMPILER__3.2e5_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_03_exercises/3.5.cpp || cmake_object_order_depends_target_3.5
+build CMakeFiles/3.5.dir/Chapter_03_exercises/3.5.cpp.obj: CXX_COMPILER__3.2e5_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_03_exercises/3.5.cpp || cmake_object_order_depends_target_3.5
   DEP_FILE = CMakeFiles\3.5.dir\Chapter_03_exercises\3.5.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\3.5.dir
@@ -379,7 +379,7 @@ build 3.5.exe: CXX_EXECUTABLE_LINKER__3.2e5_Debug CMakeFiles/3.5.dir/Chapter_03_
 
 build cmake_object_order_depends_target_3.6: phony || .
 
-build CMakeFiles/3.6.dir/Chapter_03_exercises/3.6.cpp.obj: CXX_COMPILER__3.2e6_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_03_exercises/3.6.cpp || cmake_object_order_depends_target_3.6
+build CMakeFiles/3.6.dir/Chapter_03_exercises/3.6.cpp.obj: CXX_COMPILER__3.2e6_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_03_exercises/3.6.cpp || cmake_object_order_depends_target_3.6
   DEP_FILE = CMakeFiles\3.6.dir\Chapter_03_exercises\3.6.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\3.6.dir
@@ -412,7 +412,7 @@ build 3.6.exe: CXX_EXECUTABLE_LINKER__3.2e6_Debug CMakeFiles/3.6.dir/Chapter_03_
 
 build cmake_object_order_depends_target_3.10: phony || .
 
-build CMakeFiles/3.10.dir/Chapter_03_exercises/3.10.cpp.obj: CXX_COMPILER__3.2e10_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_03_exercises/3.10.cpp || cmake_object_order_depends_target_3.10
+build CMakeFiles/3.10.dir/Chapter_03_exercises/3.10.cpp.obj: CXX_COMPILER__3.2e10_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_03_exercises/3.10.cpp || cmake_object_order_depends_target_3.10
   DEP_FILE = CMakeFiles\3.10.dir\Chapter_03_exercises\3.10.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\3.10.dir
@@ -445,7 +445,7 @@ build 3.10.exe: CXX_EXECUTABLE_LINKER__3.2e10_Debug CMakeFiles/3.10.dir/Chapter_
 
 build cmake_object_order_depends_target_3.14: phony || .
 
-build CMakeFiles/3.14.dir/Chapter_03_exercises/3.14.cpp.obj: CXX_COMPILER__3.2e14_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_03_exercises/3.14.cpp || cmake_object_order_depends_target_3.14
+build CMakeFiles/3.14.dir/Chapter_03_exercises/3.14.cpp.obj: CXX_COMPILER__3.2e14_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_03_exercises/3.14.cpp || cmake_object_order_depends_target_3.14
   DEP_FILE = CMakeFiles\3.14.dir\Chapter_03_exercises\3.14.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\3.14.dir
@@ -478,7 +478,7 @@ build 3.14.exe: CXX_EXECUTABLE_LINKER__3.2e14_Debug CMakeFiles/3.14.dir/Chapter_
 
 build cmake_object_order_depends_target_capacity: phony || .
 
-build CMakeFiles/capacity.dir/Chapter_09/capacity.cpp.obj: CXX_COMPILER__capacity_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_09/capacity.cpp || cmake_object_order_depends_target_capacity
+build CMakeFiles/capacity.dir/Chapter_09/capacity.cpp.obj: CXX_COMPILER__capacity_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_09/capacity.cpp || cmake_object_order_depends_target_capacity
   DEP_FILE = CMakeFiles\capacity.dir\Chapter_09\capacity.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\capacity.dir
@@ -511,7 +511,7 @@ build capacity.exe: CXX_EXECUTABLE_LINKER__capacity_Debug CMakeFiles/capacity.di
 
 build cmake_object_order_depends_target_erase01: phony || .
 
-build CMakeFiles/erase01.dir/Chapter_09/erase01.cpp.obj: CXX_COMPILER__erase01_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_09/erase01.cpp || cmake_object_order_depends_target_erase01
+build CMakeFiles/erase01.dir/Chapter_09/erase01.cpp.obj: CXX_COMPILER__erase01_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_09/erase01.cpp || cmake_object_order_depends_target_erase01
   DEP_FILE = CMakeFiles\erase01.dir\Chapter_09\erase01.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\erase01.dir
@@ -544,7 +544,7 @@ build erase01.exe: CXX_EXECUTABLE_LINKER__erase01_Debug CMakeFiles/erase01.dir/C
 
 build cmake_object_order_depends_target_erase02: phony || .
 
-build CMakeFiles/erase02.dir/Chapter_09/erase02.cpp.obj: CXX_COMPILER__erase02_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_09/erase02.cpp || cmake_object_order_depends_target_erase02
+build CMakeFiles/erase02.dir/Chapter_09/erase02.cpp.obj: CXX_COMPILER__erase02_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_09/erase02.cpp || cmake_object_order_depends_target_erase02
   DEP_FILE = CMakeFiles\erase02.dir\Chapter_09\erase02.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\erase02.dir
@@ -577,7 +577,7 @@ build erase02.exe: CXX_EXECUTABLE_LINKER__erase02_Debug CMakeFiles/erase02.dir/C
 
 build cmake_object_order_depends_target_erase03: phony || .
 
-build CMakeFiles/erase03.dir/Chapter_09/erase03.cpp.obj: CXX_COMPILER__erase03_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_09/erase03.cpp || cmake_object_order_depends_target_erase03
+build CMakeFiles/erase03.dir/Chapter_09/erase03.cpp.obj: CXX_COMPILER__erase03_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_09/erase03.cpp || cmake_object_order_depends_target_erase03
   DEP_FILE = CMakeFiles\erase03.dir\Chapter_09\erase03.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\erase03.dir
@@ -610,7 +610,7 @@ build erase03.exe: CXX_EXECUTABLE_LINKER__erase03_Debug CMakeFiles/erase03.dir/C
 
 build cmake_object_order_depends_target_find_str: phony || .
 
-build CMakeFiles/find_str.dir/Chapter_09/find_str.cpp.obj: CXX_COMPILER__find_str_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_09/find_str.cpp || cmake_object_order_depends_target_find_str
+build CMakeFiles/find_str.dir/Chapter_09/find_str.cpp.obj: CXX_COMPILER__find_str_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_09/find_str.cpp || cmake_object_order_depends_target_find_str
   DEP_FILE = CMakeFiles\find_str.dir\Chapter_09\find_str.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\find_str.dir
@@ -643,7 +643,7 @@ build find_str.exe: CXX_EXECUTABLE_LINKER__find_str_Debug CMakeFiles/find_str.di
 
 build cmake_object_order_depends_target_find_ops: phony || .
 
-build CMakeFiles/find_ops.dir/Chapter_09/find_ops.cpp.obj: CXX_COMPILER__find_ops_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_09/find_ops.cpp || cmake_object_order_depends_target_find_ops
+build CMakeFiles/find_ops.dir/Chapter_09/find_ops.cpp.obj: CXX_COMPILER__find_ops_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_09/find_ops.cpp || cmake_object_order_depends_target_find_ops
   DEP_FILE = CMakeFiles\find_ops.dir\Chapter_09\find_ops.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\find_ops.dir
@@ -676,7 +676,7 @@ build find_ops.exe: CXX_EXECUTABLE_LINKER__find_ops_Debug CMakeFiles/find_ops.di
 
 build cmake_object_order_depends_target_11.2: phony || .
 
-build CMakeFiles/11.2.dir/Chapter_11_exercises/11.2.cpp.obj: CXX_COMPILER__11.2e2_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_11_exercises/11.2.cpp || cmake_object_order_depends_target_11.2
+build CMakeFiles/11.2.dir/Chapter_11_exercises/11.2.cpp.obj: CXX_COMPILER__11.2e2_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_11_exercises/11.2.cpp || cmake_object_order_depends_target_11.2
   DEP_FILE = CMakeFiles\11.2.dir\Chapter_11_exercises\11.2.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\11.2.dir
@@ -709,7 +709,7 @@ build 11.2.exe: CXX_EXECUTABLE_LINKER__11.2e2_Debug CMakeFiles/11.2.dir/Chapter_
 
 build cmake_object_order_depends_target_11.3: phony || .
 
-build CMakeFiles/11.3.dir/Chapter_11_exercises/11.3.cpp.obj: CXX_COMPILER__11.2e3_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_11_exercises/11.3.cpp || cmake_object_order_depends_target_11.3
+build CMakeFiles/11.3.dir/Chapter_11_exercises/11.3.cpp.obj: CXX_COMPILER__11.2e3_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_11_exercises/11.3.cpp || cmake_object_order_depends_target_11.3
   DEP_FILE = CMakeFiles\11.3.dir\Chapter_11_exercises\11.3.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\11.3.dir
@@ -742,7 +742,7 @@ build 11.3.exe: CXX_EXECUTABLE_LINKER__11.2e3_Debug CMakeFiles/11.3.dir/Chapter_
 
 build cmake_object_order_depends_target_11.7: phony || .
 
-build CMakeFiles/11.7.dir/Chapter_11_exercises/11.7.cpp.obj: CXX_COMPILER__11.2e7_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_11_exercises/11.7.cpp || cmake_object_order_depends_target_11.7
+build CMakeFiles/11.7.dir/Chapter_11_exercises/11.7.cpp.obj: CXX_COMPILER__11.2e7_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_11_exercises/11.7.cpp || cmake_object_order_depends_target_11.7
   DEP_FILE = CMakeFiles\11.7.dir\Chapter_11_exercises\11.7.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\11.7.dir
@@ -775,7 +775,7 @@ build 11.7.exe: CXX_EXECUTABLE_LINKER__11.2e7_Debug CMakeFiles/11.7.dir/Chapter_
 
 build cmake_object_order_depends_target_vector_version: phony || .
 
-build CMakeFiles/vector_version.dir/Chapter_11_exercises/11.8/vector_version.cpp.obj: CXX_COMPILER__vector_version_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_11_exercises/11.8/vector_version.cpp || cmake_object_order_depends_target_vector_version
+build CMakeFiles/vector_version.dir/Chapter_11_exercises/11.8/vector_version.cpp.obj: CXX_COMPILER__vector_version_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_11_exercises/11.8/vector_version.cpp || cmake_object_order_depends_target_vector_version
   DEP_FILE = CMakeFiles\vector_version.dir\Chapter_11_exercises\11.8\vector_version.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\vector_version.dir
@@ -808,7 +808,7 @@ build vector_version.exe: CXX_EXECUTABLE_LINKER__vector_version_Debug CMakeFiles
 
 build cmake_object_order_depends_target_set_version: phony || .
 
-build CMakeFiles/set_version.dir/Chapter_11_exercises/11.8/set_version.cpp.obj: CXX_COMPILER__set_version_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_11_exercises/11.8/set_version.cpp || cmake_object_order_depends_target_set_version
+build CMakeFiles/set_version.dir/Chapter_11_exercises/11.8/set_version.cpp.obj: CXX_COMPILER__set_version_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_11_exercises/11.8/set_version.cpp || cmake_object_order_depends_target_set_version
   DEP_FILE = CMakeFiles\set_version.dir\Chapter_11_exercises\11.8\set_version.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\set_version.dir
@@ -841,7 +841,7 @@ build set_version.exe: CXX_EXECUTABLE_LINKER__set_version_Debug CMakeFiles/set_v
 
 build cmake_object_order_depends_target_11.9: phony || .
 
-build CMakeFiles/11.9.dir/Chapter_11_exercises/11.9.cpp.obj: CXX_COMPILER__11.2e9_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Chapter_11_exercises/11.9.cpp || cmake_object_order_depends_target_11.9
+build CMakeFiles/11.9.dir/Chapter_11_exercises/11.9.cpp.obj: CXX_COMPILER__11.2e9_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Chapter_11_exercises/11.9.cpp || cmake_object_order_depends_target_11.9
   DEP_FILE = CMakeFiles\11.9.dir\Chapter_11_exercises\11.9.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\11.9.dir
@@ -874,7 +874,7 @@ build 11.9.exe: CXX_EXECUTABLE_LINKER__11.2e9_Debug CMakeFiles/11.9.dir/Chapter_
 
 build cmake_object_order_depends_target_Trace: phony || .
 
-build CMakeFiles/Trace.dir/Ruminations_on_C++/Trace.cpp.obj: CXX_COMPILER__Trace_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Ruminations_on_C++/Trace.cpp || cmake_object_order_depends_target_Trace
+build CMakeFiles/Trace.dir/Ruminations_on_C++/Trace.cpp.obj: CXX_COMPILER__Trace_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Ruminations_on_C++/Trace.cpp || cmake_object_order_depends_target_Trace
   DEP_FILE = CMakeFiles\Trace.dir\Ruminations_on_C++\Trace.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Trace.dir
@@ -907,7 +907,7 @@ build Trace.exe: CXX_EXECUTABLE_LINKER__Trace_Debug CMakeFiles/Trace.dir/Ruminat
 
 build cmake_object_order_depends_target_TestTrace: phony || .
 
-build CMakeFiles/TestTrace.dir/Ruminations_on_C++/TestTrace.cpp.obj: CXX_COMPILER__TestTrace_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_learning_codes/Ruminations_on_C++/TestTrace.cpp || cmake_object_order_depends_target_TestTrace
+build CMakeFiles/TestTrace.dir/Ruminations_on_C++/TestTrace.cpp.obj: CXX_COMPILER__TestTrace_unscanned_Debug D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/Ruminations_on_C++/TestTrace.cpp || cmake_object_order_depends_target_TestTrace
   DEP_FILE = CMakeFiles\TestTrace.dir\Ruminations_on_C++\TestTrace.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\TestTrace.dir
@@ -936,7 +936,7 @@ build TestTrace.exe: CXX_EXECUTABLE_LINKER__TestTrace_Debug CMakeFiles/TestTrace
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\我的学习资源\13-C++_learning\C++_learning_codes\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\我的学习资源\13-C++_learning\C++_Learning_Codes\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -947,7 +947,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\我的学习资源\13-C++_learning\C++_learning_codes\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\我的学习资源\13-C++_learning\C++_learning_codes -BD:\我的学习资源\13-C++_learning\C++_learning_codes\cmake-build-debug"
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\我的学习资源\13-C++_learning\C++_Learning_Codes\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\我的学习资源\13-C++_learning\C++_Learning_Codes -BD:\我的学习资源\13-C++_learning\C++_Learning_Codes\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -1017,7 +1017,7 @@ build vector_version: phony vector_version.exe
 # =============================================================================
 
 #############################################
-# Folder: D:/我的学习资源/13-C++_learning/C++_learning_codes/cmake-build-debug
+# Folder: D:/我的学习资源/13-C++_learning/C++_Learning_Codes/cmake-build-debug
 
 build all: phony C___learning_codes.exe add_using.exe arrayScores.exe c_type.exe char_repl.exe c_string.exe get_line.exe square.exe 3.4.exe 3.5.exe 3.6.exe 3.10.exe 3.14.exe capacity.exe erase01.exe erase02.exe erase03.exe find_str.exe find_ops.exe 11.2.exe 11.3.exe 11.7.exe vector_version.exe set_version.exe 11.9.exe Trace.exe TestTrace.exe
 
@@ -1028,14 +1028,14 @@ build all: phony C___learning_codes.exe add_using.exe arrayScores.exe c_type.exe
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/我的学习资源/13-C++_learning/C++_learning_codes/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/我的学习资源/13-C++_learning/C++_learning_codes/CMakeLists.txt: phony
+build C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.29.6/CMakeCCompiler.cmake CMakeFiles/3.29.6/CMakeCXXCompiler.cmake CMakeFiles/3.29.6/CMakeRCCompiler.cmake CMakeFiles/3.29.6/CMakeSystem.cmake D$:/我的学习资源/13-C++_learning/C++_Learning_Codes/CMakeLists.txt: phony
 
 
 #############################################
